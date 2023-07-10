@@ -1,0 +1,12 @@
+__pycache__
+.mypy_cache
+.pytest_cache
+.venv
+.vscode
+.dmypy.json
+.tool-versions
+client_secret.json
+get.txt
+index.html
+poetry.lock
+run.sh
