@@ -8,5 +8,4 @@ __pycache__
 client_secret.json
 get.txt
 index.html
-poetry.lock
 run.sh
